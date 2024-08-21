@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java,flutter,sql and how to cook
 - 💞️ I’m looking to collaborate on android dev preojects
 - 📫 How to reach me imagine me to reality
-just jokes <a href="mailto:someone@example.com">Send Email</a>
+just jokes <a href="mailto:pickrun015@gmail.com">Send Email</a>
 - 😄 Pronouns: him innit
 - ⚡ Fun fact: im !white
 
